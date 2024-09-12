@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1703884107 source:d:\eductaion\faculty of engineering\cce\3rd term\programming 1\labs\assignments\final\ii\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<ctype.h>
+
+1704069207 source:d:\eductaion\faculty of engineering\cce\3rd term\programming 1\labs\assignments\final\final project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<ctype.h>
+
+1704072808 source:d:\menna\eductaion\faculty of engineering\cce\term (3)\programming 1\labs\assignments\final\final project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<ctype.h>
+
